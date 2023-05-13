@@ -1,0 +1,23 @@
+{
+  "name": "consumo-de-api",
+  "version": "1.0.0",
+  "description": "Una aplicación Node.js que consume la API de GitHub y muestre los 10 repositorios más populares del usuario \"google\".",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Louidor-Love/Consumo-de-Api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Louidor-Love/Consumo-de-Api/issues"
+  },
+  "homepage": "https://github.com/Louidor-Love/Consumo-de-Api#readme",
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
